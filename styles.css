@@ -3,24 +3,24 @@
 @tailwind utilities;
 :root {
   /* Colors */
-  --primary-50: #d3ffff !important;
-  --primary-100: #b2eff2 !important;
-  --primary-200: #90dfe6 !important;
-  --primary-300: #6bcedb !important;
-  --primary-400: #3abed1 !important;
-  --primary-500: #00a5be !important;
-  --primary-600: #0085a0 !important;
-  --primary-700: #006681 !important;
-  --primary-800: #004962 !important;
-  --primary-900: #002e43 !important;
-  --secondary-50: #ffffb9 !important;
-  --secondary-100: #fcf499 !important;
-  --secondary-200: #fbe978 !important;
-  --secondary-300: #fcdc55 !important;
-  --secondary-400: #fece2a !important;
-  --secondary-500: #ffc700 !important;
-  --secondary-600: #ca9601 !important;
-  --secondary-700: #a77701 !important;
-  --secondary-800: #845a01 !important;
-  --secondary-900: #613f00 !important;
+  --primary-50: #F2EFEE !important;
+  --primary-100: #e1dfdb !important;
+  --primary-200: #c5bfb8 !important;
+  --primary-300: #aba098 !important;
+  --primary-400: #92827a !important;
+  --primary-500: #776660 !important;
+  --primary-600: #746661 !important;
+  --primary-700: #625752 !important;
+  --primary-800: #544b48 !important;
+  --primary-900: #2b2624 !important;
+  --secondary-50: #dbece9 !important;
+  --secondary-100: #8bbdb8 !important;
+  --secondary-200: #498381 !important;
+  --secondary-300: #386867 !important;
+  --secondary-400: #263b3b !important;
+  --secondary-500: #f4eff1 !important;
+  --secondary-600: #d9c8cf !important;
+  --secondary-700: #aa8a96 !important;
+  --secondary-800: #7b5b64 !important;
+  --secondary-900: #584348 !important;
 }
